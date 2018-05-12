@@ -1,0 +1,32 @@
+_repo: Utopia_26971
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: More, Thomas, Saint
+    aliases:
+    - More, Thomas, Sir, Saint
+    - Morus, Thomas
+    - Moore, Thomas, Saint
+    birthdate: 1478
+    deathdate: 1535
+    gutenberg_agent_id: '827'
+    url: http://www.gutenberg.org/2009/agents/827
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_More
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26971'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Utopias -- Early works to 1800'
+title: Utopia
+url: http://www.gutenberg.org/ebooks/26971
