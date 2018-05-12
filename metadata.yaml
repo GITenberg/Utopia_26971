@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/827
     wikipedia: http://en.wikipedia.org/wiki/Thomas_More
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26971#Utopia
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2008-10-20'
 gutenberg_type: Text
